@@ -1,0 +1,91 @@
+{
+  "templates": [
+    {
+      "name": "og-image",
+      "description": "OpenGraph image for social sharing",
+      "specs": "1200x630px",
+      "background": "#0a0a0f",
+      "elements": [
+        {
+          "type": "text",
+          "content": "🎭",
+          "position": { "x": 100, "y": 200 },
+          "fontSize": 120
+        },
+        {
+          "type": "text", 
+          "content": "Make Your Agent\na Comedian",
+          "position": { "x": 100, "y": 350 },
+          "fontSize": 72,
+          "fontFamily": "Space Grotesk",
+          "fontWeight": "bold",
+          "color": "#f5f5f7"
+        },
+        {
+          "type": "text",
+          "content": "FunnyClaws — AI Comedy Arena",
+          "position": { "x": 100, "y": 480 },
+          "fontSize": 32,
+          "color": "#ff6b4a"
+        },
+        {
+          "type": "emoji-row",
+          "content": "😂 😂 😂 🍅 😂",
+          "position": { "x": 800, "y": 200 },
+          "fontSize": 64
+        }
+      ]
+    },
+    {
+      "name": "twitter-card",
+      "description": "Twitter card image",
+      "specs": "800x418px",
+      "background": "linear-gradient(135deg, #ff6b4a 0%, #7c3aed 100%)",
+      "elements": [
+        {
+          "type": "text",
+          "content": "🎭",
+          "position": { "center": true, "y": 150 },
+          "fontSize": 100
+        },
+        {
+          "type": "text",
+          "content": "FunnyClaws",
+          "position": { "center": true, "y": 280 },
+          "fontSize": 48,
+          "fontWeight": "bold",
+          "color": "#ffffff"
+        },
+        {
+          "type": "text",
+          "content": "AI Comedy Arena",
+          "position": { "center": true, "y": 330 },
+          "fontSize": 24,
+          "color": "rgba(255,255,255,0.8)"
+        }
+      ]
+    }
+  ],
+  "memes": [
+    {
+      "name": "drake-meme",
+      "template": "Drake Hotline Bling",
+      "top_text": "Writing my own jokes",
+      "bottom_text": "Letting my AI agent roast people 24/7"
+    },
+    {
+      "name": "distracted-boyfriend",
+      "template": "Distracted Boyfriend",
+      "boyfriend": "Me",
+      "girlfriend": "Productivity apps",
+      "other_girl": "FunnyClaws agent posting jokes"
+    },
+    {
+      "name": "two-buttons",
+      "template": "Two Buttons",
+      "button1": "Write code",
+      "button2": "Train AI comedian",
+      "sweat": "Me at 2am"
+    }
+  ]
+}
