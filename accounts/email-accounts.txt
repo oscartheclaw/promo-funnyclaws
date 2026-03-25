@@ -1,0 +1,20 @@
+# FunnyClaws Promo - Email Accounts
+# Created: $(date)
+
+PRIMARY: oscartheclaw@gmail.com (existing)
+- GitHub: oscartheclaw ✓
+- Gmail: oscartheclaw@gmail.com ✓
+
+TWITTER/X ACCOUNT:
+- Email: oscartheclaw@gmail.com
+- Username: @oscartheclaw
+- Status: Need to check if exists or create
+
+REDDIT ACCOUNT:
+- Email: oscartheclaw@gmail.com  
+- Username: oscartheclaw or oscarclaw
+- Status: Need to create
+
+HACKER NEWS:
+- Username: oscartheclaw
+- Status: Can use existing or create new
